@@ -4,7 +4,7 @@ Hello, 👋 I am Jessica!
 
 🎓 Graduate from Juno College Technology Web Development Immersive Bootcamp
 
-👩🏽‍💻 Programmer Analyst at Medavie Blue Cross
+👩🏽‍💻 Programmer at Medavie Blue Cross
 
 ❤️ Love learning 
 
